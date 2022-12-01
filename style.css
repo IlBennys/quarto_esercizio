@@ -26,6 +26,7 @@
 }
 .logo {
   text-align: center;
+  padding-top: 20px;
 }
 .primo-paragrafo {
   text-align: center;
@@ -88,4 +89,70 @@ hr {
 }
 iframe {
   border-radius: 15%;
+}
+#porta {
+  margin-top: 30px;
+  width: 350px;
+  height: 111px;
+  background-color: lightgray;
+}
+h2 {
+  font-size: large;
+  text-align: center;
+  font-weight: bolder;
+  margin-bottom: 10px;
+}
+#sistema {
+  margin-top: 20px;
+}
+#linea-sotto {
+  border: dashed black;
+}
+h3 {
+  margin-top: 50px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: large;
+}
+#porta-aperta {
+  margin-bottom: 18px;
+  margin-top: 30px;
+  width: 350px;
+  height: 84px;
+  background-color: lightgray;
+  border: solid 3px;
+  border-color: black;
+}
+#portone {
+  font-weight: bolder;
+  margin-bottom: 10px;
+}
+#porta-semi-aperta {
+  width: 350px;
+  height: 84px;
+  margin-bottom: 18px;
+  border: solid 3px;
+  border-color: black;
+}
+#porta-chiusa {
+  width: 350px;
+  height: 84px;
+  border: solid 3px;
+  border-color: black;
+}
+#carolina {
+  margin-left: 68px;
+  width: 350px;
+  height: 84px;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    3deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(42, 42, 107, 1) 23%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+#muto {
+  color: white;
+  text-align: center;
 }
