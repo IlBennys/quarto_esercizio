@@ -1,0 +1,22 @@
+.sfondo {
+  display: flex;
+  height: 915px;
+  background-color: #09c;
+  background-image: url(./sfondo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: bottom;
+}
+.prima-parte {
+  height: 30vh;
+  background-color: blue;
+  text-align: center;
+}
+.logo {
+  width: 100%;
+  text-align: center;
+  display: flex;
+}
+.primo-paragrafo {
+  text-align: center;
+}
