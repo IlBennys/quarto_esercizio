@@ -1,5 +1,4 @@
 .sfondo {
-  display: flex;
   height: 915px;
   background-color: #09c;
   background-image: url(./sfondo.png);
@@ -9,14 +8,42 @@
 }
 .prima-parte {
   height: 30vh;
-  background-color: blue;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    11deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(42, 42, 107, 1) 23%,
+    rgba(0, 212, 255, 1) 100%
+  );
   text-align: center;
+  height: 200px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  width: 415px;
 }
 .logo {
-  width: 100%;
   text-align: center;
-  display: flex;
 }
 .primo-paragrafo {
   text-align: center;
+  color: white;
+}
+.primo-main {
+  text-align: center;
+  background-color: white;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  box-sizing: border-box;
+  padding: 20px;
+}
+h1 {
+  font-weight: 900;
+  font-size: 2em;
+}
+#secondo.paragraf {
+  color: lightgray;
 }
