@@ -7,6 +7,7 @@
   background-position-y: bottom;
 }
 .prima-parte {
+  width: 382px;
   height: 30vh;
   background: rgb(2, 0, 36);
   background: linear-gradient(
@@ -44,6 +45,47 @@ h1 {
   font-weight: 900;
   font-size: 2em;
 }
-#secondo.paragraf {
-  color: lightgray;
+#ciao {
+  margin-top: 23px;
+}
+#spiegazione {
+  text-align: left;
+  margin-top: 20px;
+}
+#sbarra {
+  text-align: left;
+  margin-top: 10px;
+}
+.locate {
+  text-align: left;
+  margin-top: 5px;
+  padding-bottom: 7px;
+}
+li {
+  word-spacing: 1%;
+  margin-top: 3px;
+  padding-bottom: 6px;
+}
+p {
+  text-align: left;
+}
+ol {
+  text-align: left;
+}
+#sotto {
+  margin-top: 8px;
+}
+table {
+  margin-top: 15px;
+}
+#mia {
+  width: 350px;
+}
+hr {
+  border: solid;
+  border-color: blue;
+  width: 346px;
+}
+iframe {
+  border-radius: 15%;
 }
